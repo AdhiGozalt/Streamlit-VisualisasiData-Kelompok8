@@ -5,4 +5,4 @@ streamlit-lottie
 streamlit-option-menu==0.3.0
 numerize==0.12
 altair==4
-plotly
+pillow==9.5.0
