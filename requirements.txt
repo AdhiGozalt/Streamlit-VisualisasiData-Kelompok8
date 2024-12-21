@@ -1,9 +1,9 @@
-pip install --upgrade pip
-pip install streamlit==1.25.0
-pip install pandas==1.5.3
-pip install plotly==5.15.0
-pip install streamlit-lottie
-pip install streamlit-option-menu==0.3.0
-pip install numerize==0.12
-pip install altair==4
-pip install plotly
+--upgrade pip
+streamlit==1.25.0
+pandas==1.5.3
+plotly==5.15.0
+streamlit-lottie
+streamlit-option-menu==0.3.0
+numerize==0.12
+altair==4
+plotly
