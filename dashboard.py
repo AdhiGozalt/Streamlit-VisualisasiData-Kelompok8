@@ -24,8 +24,8 @@ df = pd.read_csv(file)
 
 st.sidebar.image("pic/parislogo.jpg", caption= "https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games/data?select=athletes.csv")
 st.sidebar.write("Muhammad Adhi Gozalt : 1301213212")
-st.sidebar.write("Naufal Alfarisi : ")
-st.sidebar.write("Azzam Abdurrahman : ")
+st.sidebar.write("Naufal Alfarisi : 1301213452")
+st.sidebar.write("Azzam Abdurrahman : 1301184295")
 
 def load_lottieurl(url: str):
     r = requests.get(url)
